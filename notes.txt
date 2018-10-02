@@ -7,3 +7,7 @@ heavy-equipment/
 
 
 
+Navbar
+Footer 
+Phone Numbers 
+Email
